@@ -8,11 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Dr. Zhongnan YE"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://zhongnan-ye.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Dr. Zhongnan YE"
+description              : &description "Postdoc Fellow at the Hong Kong Polytechnic University"
+url                      : https://zhongnan-ye.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zhongnan-ye/zhongnan-ye.github.io"
 
@@ -22,7 +22,7 @@ repository               : "zhongnan-ye/zhongnan-ye.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Dr. Zhongnan YE"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
